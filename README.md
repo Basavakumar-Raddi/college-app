@@ -1,2 +1,2 @@
 # college-app
-college-app
+my college-app
