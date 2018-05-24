@@ -9,6 +9,7 @@ public class EmployeeController {
 
     @RequestMapping("/hello")
     public String helloEmployee() {
+        System.out.println("testting application");
         return "Greetings from Employee Spring Boot!";
     }
 }
