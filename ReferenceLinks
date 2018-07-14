@@ -1,0 +1,13 @@
+Spring boot hello world link for base hello world with junit test case
+    https://spring.io/guides/gs/spring-boot/
+spring boot application.properties file sample
+    https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+Lombok
+    http://www.baeldung.com/intro-to-project-lombok
+    https://projectlombok.org/features/Data
+mysql setup
+    https://spring.io/guides/gs/accessing-data-mysql/
+    https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+mapstruct
+    http://www.baeldung.com/mapstruct
+    https://www.javacodegeeks.com/2016/12/mapstruct-transferring-data-one-bean-another.html

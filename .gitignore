@@ -1,6 +1,8 @@
 /target/
 /config/target/
 /config/*.iml
+/core/target/
+/core/*.iml
 .idea/*
 .idea/
 !.mvn/wrapper/maven-wrapper.jar

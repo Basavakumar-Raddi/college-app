@@ -1,7 +1,6 @@
 package com.kumar.college.test.config;
 
-import com.kumar.college.config.CollegeApplication;
-import com.kumar.college.controller.EmployeeController;
+import com.kumar.college.CollegeApplication;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
