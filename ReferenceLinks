@@ -11,3 +11,7 @@ mysql setup
 mapstruct
     http://www.baeldung.com/mapstruct
     https://www.javacodegeeks.com/2016/12/mapstruct-transferring-data-one-bean-another.html
+Liquibase
+    http://shengwangi.blogspot.com/2016/04/liquibase-helloworld-example.html
+    https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da
+

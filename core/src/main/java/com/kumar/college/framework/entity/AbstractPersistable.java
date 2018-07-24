@@ -13,7 +13,7 @@ import org.pojomatic.annotations.Property;
 import org.springframework.data.domain.Persistable;
 
 /**
- * Abstract base class for entities. Allows parameterization of id type, chooses auto-generation and implements
+ * Abstract b class for entities. Allows parameterization of id type, chooses auto-generation and implements
  * {@link #equals(Object)} and {@link #hashCode()} based on that id. "Borrowed" from spring-data-jpa.
  *
  */

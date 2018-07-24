@@ -17,7 +17,7 @@ import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 /**
- * Abstract base class for auditable entities. Stores the audit values in persistent fields. "Borrowed" from spring-data-jpa.
+ * Abstract b class for auditable entities. Stores the audit values in persistent fields. "Borrowed" from spring-data-jpa.
  *
  * ILR - Added in onPersist and onCreate. These will put in dates and users.
  *
